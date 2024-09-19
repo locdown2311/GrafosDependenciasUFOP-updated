@@ -1,6 +1,6 @@
-# vue-project
+# Grafo de Dependencias UFOP - ICEA
 
-This template should help get you started developing with Vue 3 in Vite.
+Agradecimentos ao autor original do projeto, estou apenas mantendo o mesmo atualizado.
 
 ## Recommended IDE Setup
 
